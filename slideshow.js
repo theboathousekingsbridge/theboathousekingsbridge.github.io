@@ -4,6 +4,7 @@ var curIndex = 0,
     slides = slider.childNodes;
     imgArray = [
         'topslideshow/14kitchen2.jpg',
+        'topslideshow/01sconesOnBalcony.jpg',
         'topslideshow/07viewDownEstuary2.jpg',
         'topslideshow/02loungeLookingIn.jpg',
         'topslideshow/03viewDownEstuary.jpg',
@@ -12,7 +13,6 @@ var curIndex = 0,
         'topslideshow/08kitchen.jpg',
         'topslideshow/09estuaryThroughBlind.jpg',
         'topslideshow/10viewAcrossEstuary.jpg',
-        'topslideshow/01sconesOnBalcony.jpg',
         'topslideshow/11loungeBlueSofa.jpg',
         'topslideshow/12doubleBedroom.jpg',
         'topslideshow/13twinBedroom.jpg']
