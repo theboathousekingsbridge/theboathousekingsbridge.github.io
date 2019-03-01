@@ -64,7 +64,6 @@ and (min-width : 300px) {
     color: white;
     text-shadow: 2px 2px 4px black;
     white-space: nowrap;
-    border-radius: 10px 10px 10px 10px;
 }
 .title {
     width: 100%;
