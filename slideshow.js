@@ -3,19 +3,19 @@ var curIndex = 0,
     slider = document.getElementById("slider"),
     slides = slider.childNodes;
     imgArray = [
-        'topslideshow/14kitchen2.jpg',
-        'topslideshow/01sconesOnBalcony.jpg',
-        'topslideshow/07viewDownEstuary2.jpg',
-        'topslideshow/02loungeLookingIn.jpg',
-        'topslideshow/03viewDownEstuary.jpg',
-        'topslideshow/05estuaryFromLounge.jpg',
-        'topslideshow/06paddleBoardOnEstuary.jpg',
-        'topslideshow/08kitchen.jpg',
-        'topslideshow/09estuaryThroughBlind.jpg',
-        'topslideshow/10viewAcrossEstuary.jpg',
-        'topslideshow/11loungeBlueSofa.jpg',
-        'topslideshow/12doubleBedroom.jpg',
-        'topslideshow/13twinBedroom.jpg']
+        'topslideshow/14kitchen2.webp',
+        'topslideshow/01sconesOnBalcony.webp',
+        'topslideshow/07viewDownEstuary2.webp',
+        'topslideshow/02loungeLookingIn.webp',
+        'topslideshow/03viewDownEstuary.webp',
+        'topslideshow/05estuaryFromLounge.webp',
+        'topslideshow/06paddleBoardOnEstuary.webp',
+        'topslideshow/08kitchen.webp',
+        'topslideshow/09estuaryThroughBlind.webp',
+        'topslideshow/10viewAcrossEstuary.webp',
+        'topslideshow/11loungeBlueSofa.webp',
+        'topslideshow/12doubleBedroom.webp',
+        'topslideshow/13twinBedroom.webp']
 
 
 function buildSlideShow(arr) {
